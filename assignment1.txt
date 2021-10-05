@@ -1,0 +1,5 @@
+public class Introduction{
+	public static void main(String[] args){
+	System.out.println("Good Morning Sir/Madam, I would like to thankyou for giving me this oppurtunity and its my pleasure to introduce myself. My name is P. sri santhi priya i am from rajamundry. I have completed my intermediate education from sri chaitanya junior college. I have done my schooling from Malatamba Vidyaniketan school. I am pursuing my btech degree in computer science and engineering from Rajamahendri Institute of Engineering and Technology.");
+	}
+}
